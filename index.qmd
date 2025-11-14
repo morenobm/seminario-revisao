@@ -1,0 +1,262 @@
+---
+title: "Tópicos em Biotecnologia Vegetal"
+subtitle: "*Phaseolus vulgaris* - Feijoeiro-comum"
+author: "Bruna Marques Moreno"
+institute: "Programa de Pós-Graduação em Genética e Melhoramento de Plantas - ESALQ/USP"
+date: today
+date-format: "YYYY"
+
+format:
+  revealjs:
+    theme: serif
+    css: styles.css
+    slide-number: true
+    preview-links: true      # links abrem no navegador externo
+    progress: true  
+---
+
+## Importância econômica
+
+- Segundo grupo de maior importância na alimentação mundial (Khan et al., 2022)
+- Essencial para alimentação humana em países em desenvolvimento = aminoácidos + nutrientes (Meziadi et al., 2016)
+- Grande plasticidade climática e de diversas condições de solo (de Almeida et al., 2020). 
+- No Brasil: 3 safras por ano &rarr; diferentes níveis tecnológicos (EMBRAPA, 2024)
+
+![](imagens/produção.png){fig-align="center" width=50%}
+
+**Figura 1.** Produção mundial de feijão-comum FAOstat 2023. 
+
+# Recursos genômicos
+
+## Feijoeiro-comum
+
+- *Phaseolus vulgaris* - 2n = 22
+- Fabaceae
+- Gênero interessante porque tem cinco espécies que foram domesticadas em diferentes regiões:
+
+![](imagens/all_beans.jpg){fig-align="center" width=70%}
+
+# Principais desafios
+
+::: columns
+
+::: column
+- Qualidade nutricional das sementes (concentração de **Fe** e **Zn**, redução de fatores antinutricionais - fitatos, taninos, lecitina)
+:::
+
+::: column
+- Redução do tempo de cocção 
+:::
+
+::: column
+- Fatores bióticos (antracnose, mancha angular)
+:::
+
+::: column
+- Fatores abióticos (resistência à seca, porte da planta e produtividade)
+:::
+
+:::
+
+## Debate sobre as origens 
+
+![](imagens/centros_de_origem.png){fig-align="center" width=70%}
+
+[(Rendón-Anaya et al., 2017)](https://doi.org/10.1186/s13059-017-1190-6)
+
+- Ponto importante para conhecimento da diversidade genética.
+
+## Domesticação
+
+- Análise de proteínas (faseolinas) &#x27F6; marcadores moleculares (microssatélites)
+    Mesoamericanos - tipo S <br>
+    Andinos - tipos H, C e T
+
+- Estima-se que ocorreu há ~ 8.000 anos.
+
+<!--neste artigo eles discutem três possíveis hipóteses de como os feijões foram domesticados com base nas árvores filogenéticas das espécies. Mistura de SNPs e metabolômica para separaçãpo filogenética dos acessos e espécies. na cromatografia líquida, identificou que a diversidade de compostos do grupo dos flavonoides tinham a ver com o recrutamento de microrganismos na rizosfera. Além disso eles conseguiram identificar haplótipos específicos de domesticação para uma região e para as duas regiões. Nos artigo, os pesquisadores ainda sugerem que o início da especiação foi na região tropical dos andes. Através das ômicas foi possível confirmar os dois pools gênicos e identificar as regiões de hibridos no genoma). -->
+
+- Também se sabe que existem cinco subgrupos que foram formados durante a domesticação. Usando PAVs (presença/ausência de variantes)
+
+- Pan-genoma permitiu entender como a perda gênica entre os pools gênicos e como alguns genes são responsáveis pela especiação
+
+- Os pools se diferenciam em níveis morfológicos, bioquímicos e moleculares.
+
+## Distribuição dos genomas entre pools gênicos
+
+![](imagens/distribuição_andino_mesoamericano.png){fig-align="center" width=70%}
+
+[(de Almeida et al., 2020)](https://doi.org/10.3390/genes11111298) <br>
+
+- Fontes de genes de resistência para doenças como antracnose, mancha angular, oídio.
+- Entendimento do pedigree de cultivares anteriores.
+
+## Presença/Ausência de diferentes genes
+
+![](imagens/gene_floração_corte.jpg){width="50%"} 
+
+- Outros genes também estão ligados a PAV como: dormência, transição floral, fotoperíodo, defesa e interação com microorganismos 
+<br>[(Cortinovis et al., 2024)](https://doi.org/10.1038/s41467-024-51032-2)
+<!--(eles ainda trazem a ideia de que no processo de domesticação ou adaptação é mais fácil ter genes que perdem função do que ganham, facilitando uma resposta rápida às mudanças climáticas. Neste artigo fica claro que o estudo de pan-genomas é essencial para entender como a dinâmica genômica molda a resposta ao ambiente das diversas plantas)-->
+
+
+## Banco de Germoplasma
+
+- Maior banco de germoplasma internacional: **CIAT** [(Centro Internacional de Agricultura Tropical)](https://alliancebioversityciat.org/)
+
+![](imagens/site_ciat.png){width="300%"} | ![](imagens/genebank_1.jpg){width="300%"} | ![](imagens/beans_over_the_world.png){width="50%"}
+|:--:|:--:|:--:|
+
+## Caso de sucesso = Transgenia
+
+- Maior dificuldade é a **regeneração na cultura de tecidos** por conta da alta produção de compostos fenólicos  
+  - Regeneração *de novo* <!--utilização de células desdiferenciadas-->
+
+- Moura et al., 2024 &rarr; 3 eventos que não foram bem sucedidos. Dificuldade de estabelecer protocolos que superam os problemas de tecidos recalcitrantes *in vitro* e dificuldades de transformação de alguns tipos de células.
+
+- Taxa de sucesso usando *Agrobacterium* entre 0,5% e 28,6%.
+
+---
+
+## Diferentes tipos eventos em feijoeiros ao redor do mundo
+
+![](imagens/tabela_transgenicos_1.png){fig-align="center" width=100%}
+<br>
+[(Moura et al., 2024)](https://doi.org/10.3390/agriculture14112060)
+
+---
+
+![](imagens/tabela_transgenicos_2.png){fig-align="center" width=200%}
+[(Moura et al., 2024)](https://doi.org/10.3390/agriculture14112060)
+
+---
+
+## *Hairy root transformation*
+
+- Metodologia mediada por *Rhizobium rhizogenes* para **análise funcional de genes** e **metabólitos secundários**
+  - A transferência do seu T-DNA promove o crescimento radicular descontrolado que é capaz de ser regenerado;
+  - Redução da formação de quimeras;
+  - Expressão constitutiva do transgene;
+  - Comum em outras culturas como maçã [(Ruter et al., 2024)](https://doi.org/10.1007/s11240-024-02742-4)
+
+## Biobalística
+
+- Um dos métodos com maior sucesso no feijoeiro
+
+```{r}
+## Linha do tempo: Desenvolvimento do feijoeiro transgênico
+
+#| echo: false
+#| results: asis
+#| fig-align: center
+
+library(timevis)
+library(htmltools)
+
+# --- Dados dos eventos ---
+dados <- data.frame(
+  start = c("1993-01-06", "1996-01-06", "1998-01-06", "2007-01-01", "2011-01-01"),
+  content = c(
+    "Bombardeamento de meristema com o gene <i>cp</i> para resistência ao mosaico dourado do feijoeiro",
+    "EMBRAPA inicia seus estudos de transgenia com feijoeiro-comum",
+    "Introdução dos genes <b>TrAP-REn</b> e <b>BC1</b>",
+    "Linhagem com <b>93%</b> de plantas sem a doença (RNAi)",
+    "Primeira linhagem comercial <b>GM</b> resistente ao vírus do mosaico dourado do feijoeiro"
+  )
+)
+
+# --- Exibir linha do tempo ---
+div(
+  style = "display: flex; justify-content: center; align-items: center; height: 80vh;",
+  div(
+    style = "width: 90%;",
+    timevis(
+      data = dados,
+      height = "500px",
+      width = "100%",
+      options = list(
+        showCurrentTime = TRUE,
+        zoomable = TRUE,
+        stack = TRUE,        # empilha eventos dentro do grupo
+        orientation = "top",
+        margin = list(item = 20, axis = 40)
+      )
+    )
+  )
+)
+```
+# Edição gênica
+
+- Uso de CRISPR/Cas9 [(Moura et al., 2024)](https://doi.org/10.3390/agriculture14112060):
+  - Palatabilidade e digestibilidade do grão - genes da família do oligossacarídeo rafinose; 
+  - Resistente à seca;
+  - Redução de fatores antinutricionais (fitatos, taninos, lecitinas).
+  
+  <!--uma das razões para trazer este ponto da regeneração à tona é que para edição gênica é preciso que estes protocolos estejam bem definidos.-->
+
+# Seleção assistida (MAS)
+
+## Uso de *Crop Wild Relatives* (*CWR*) 
+
+- Domesticação &rarr; *bottleneck* diversidade genética
+
+- Fontes de novos alelos &rarr; aplicação de hibridização 
+
+- Cruzamento entre *P. vulgaris* x *P. costaricensis* com transferência de genes de resistência à mofo branco (Singh et al. 2013).
+
+- Monitoramento &rarr; marcadores SNP, KASP, microssatélites.
+
+## Marcadores KASP (PCR Competitiva Específica para Alelos)
+
+- Melhoria da genotipagem
+
+![](imagens/kasp.png){fig-align="center" width=30%}
+[LGC](https://www.biosearchtech.com/how-does-kasp-work?utm_term=&utm_campaign=SOe-NAC2-DSA&utm_source=googleads&utm_medium=cpc&hsa_acc=9050997109&hsa_cam=19003449313&hsa_grp=144555884635&hsa_ad=743116102957&hsa_src=g&hsa_tgt=dsa-2444095202784&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=19003449313&gbraid=0AAAAAD_arTtfFYdc4TzNMdncVj7STh8Gc&gclid=CjwKCAiAoNbIBhB5EiwAZFbYGEVrSeX6FPt93ZhEgL9G4mKKvVKTHjuhwrbTfvpHFI9pJNSJUhX2MBoCtjwQAvD_BwE)
+
+##
+
+![](imagens/cromossomo_kasp.png){fig-align="center" width=100%} | ![](imagens/montagem_cromossomos.png){fig-align="center" width=150%}
+|:---:|:---:|
+
+<br>
+
+[(Valentini et al., 2017)](10.1007/s00122-017-2920-6) - Mapa de ligação para diversas doenças (antracnose, mofo branco e ferrugem).
+
+
+## Mapeamento de QTL
+
+- O primeiros mapas foram construídos na década de 80 com o avanço 
+
+### Fatores bióticos
+
+- Mapeamento dos QTLs encontrados para as principais doenças que acometem o feijoeiro. 
+
+![](imagens/Meziani_et_al_2016.jpg){width=70%}
+<br>
+
+[(Meziani et al., 2016)](https://doi.org/10.1016/j.plantsci.2015.09.006)
+
+
+### Concentração de **Fe** e **Zn**
+
+![](imagens/qtl_abiotico.jpg){width=85%}
+<br>
+
+[(Izquierdo et al., 2018)](https://doi.org/10.1007/s00122-018-3104-8)
+
+## Seleção genômica
+
+- Prediz o fenótipo de caracteres quantitativos com base em informações genômicas associadas à informações fenotípicas anteriores.
+
+-Interessante para caracteres de baixa herdabilidade ($h^2 \le 0,40$)
+
+![](imagens/selecao_genomica.jpg){width=100%}
+<br>
+[(Keller et al., 2020)](https://doi.org/10.3389/fpls.2020.01001)
+
+
+### Outro exemplo
+
+![](imagens/selecao.jpg){width=85%}
+
+[(Chiaravallotti et al., 2023)](https://doi.org/10.1002/tpg2.20388)
