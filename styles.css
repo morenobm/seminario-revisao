@@ -1,0 +1,99 @@
+/* ======== ESTILO GERAL ======== */
+.reveal {
+  background-color: #ffffff;
+  color: #2e2e2e;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 28px;
+  line-height: 1.4;
+}
+
+/* ======== TÍTULOS ======== */
+.reveal h1, .reveal h2, .reveal h3 {
+  color: #003c2f; /* verde escuro da ESALQ */
+  font-family: "Georgia", serif;
+  font-weight: 600;
+}
+
+.reveal h1 {
+  font-size: 2.2em;
+  border-bottom: 2px solid #003c2f;
+  padding-bottom: 0.2em;
+  margin-bottom: 0.6em;
+}
+
+.reveal h2 {
+  font-size: 1.6em;
+  margin-bottom: 0.4em;
+}
+
+/* ======== LINKS ======== */
+.reveal a {
+  color: #006b4e;
+  text-decoration: none;
+  border-bottom: 1px dashed #006b4e;
+}
+
+.reveal a:hover {
+  color: #004a33;
+  border-bottom: 1px solid #004a33;
+}
+
+/* ======== IMAGENS ======== */
+.reveal section img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 8px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.15);
+}
+
+/* ======== CITAÇÕES ======== */
+.reveal blockquote {
+  font-style: italic;
+  color: #444;
+  border-left: 4px solid #006b4e;
+  padding-left: 1em;
+  margin: 1em 0;
+}
+
+/* ======== BARRA DE PROGRESSO ======== */
+.reveal .progress span {
+  background: #006b4e !important;
+}
+
+/* ======== TABELAS ======== */
+.reveal table {
+  margin: auto;
+  border-collapse: collapse;
+  font-size: 0.9em;
+}
+
+.reveal table th {
+  background-color: #e6f2ec;
+  color: #003c2f;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+}
+
+.reveal table td {
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+}
+
+/* ======== SLIDE INICIAL ======== */
+.reveal .title-slide h1 {
+  font-size: 2.8em;
+  color: #003c2f;
+}
+
+.reveal .title-slide h2 {
+  font-size: 1.6em;
+  color: #444;
+  font-weight: 400;
+}
+
+.reveal .title-slide p.author,
+.reveal .title-slide p.institute,
+.reveal .title-slide p.date {
+  color: #333;
+  font-size: 0.9em;
+}
