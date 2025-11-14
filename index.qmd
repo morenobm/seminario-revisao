@@ -231,15 +231,15 @@ div(
 
 - Mapeamento dos QTLs encontrados para as principais doenças que acometem o feijoeiro. 
 
-![](imagens/Meziani_et_al_2016.jpg){width=70%}
+![](imagens/Meziani_et_al_2016.jpg){width=55%}
 <br>
 
 [(Meziani et al., 2016)](https://doi.org/10.1016/j.plantsci.2015.09.006)
 
 
-### Concentração de **Fe** e **Zn**
+## Concentração de **Fe** e **Zn**
 
-![](imagens/qtl_abiotico.jpg){width=85%}
+![](imagens/qtl_abiotico.jpg){width=50%}
 <br>
 
 [(Izquierdo et al., 2018)](https://doi.org/10.1007/s00122-018-3104-8)
@@ -250,13 +250,22 @@ div(
 
 -Interessante para caracteres de baixa herdabilidade ($h^2 \le 0,40$)
 
-![](imagens/selecao_genomica.jpg){width=100%}
+![](imagens/selecao_genomica.jpg){width=50%}
 <br>
 [(Keller et al., 2020)](https://doi.org/10.3389/fpls.2020.01001)
 
 
-### Outro exemplo
+## Outro exemplo
 
-![](imagens/selecao.jpg){width=85%}
+![](imagens/selecao.jpg){width=60%}
 
 [(Chiaravallotti et al., 2023)](https://doi.org/10.1002/tpg2.20388)
+
+##
+
+<div class="center-slide">
+  <h1 style="color:#003c2f; font-size:64px;">Obrigada!</h1>
+</div>
+
+
+
